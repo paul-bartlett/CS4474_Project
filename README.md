@@ -1,1 +1,2 @@
-A redesign of Western University's course selection tool.
+# CS4474
+A redesign of Western University's course selection tool. The design uses elements of HCI to create a tool that is significantly easier to use than the current one available for students. The tool features basic functionalities such as adding and dropping courses, saving and loading the user's profile, and a search for all currently available courses (1000+) at Western. The tool uses jQuery and Handlebars in addition to standard web languages (CSS, HTML, JavaScript).
